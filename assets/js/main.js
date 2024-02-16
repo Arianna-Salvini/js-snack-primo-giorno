@@ -89,3 +89,6 @@ console.info('Il mio messaggio')
 // in JS there console privides differents methods to use, 
 //for exemple warn, error, assert, count,time, timelog, timeend, group, clear and so on.
 //Each console method has its own use cases.
+// In this case while e console.log method we can write string or value of JavaScript objects to the console, 
+//the console.info method is used to display messages in the browser console wich are permanent messages in the console. 
+//So if consol.log can display variables and object, consol.info can only be use for permanent message.
