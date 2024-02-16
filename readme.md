@@ -52,4 +52,8 @@ Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successi
     - Print in console
 
 
- 
+ ESERCIZIO 5: Numeri
+Rispondete in un commento a più righe: Che differenza c'è tra il numero 3.14 e 100 sono diversi? Perchè? Che tipo di dato è uno e che tipo di dato è l'altro?
+(aiutatevi con una ricerca su google per allenare il vostro cerebro)
+
+

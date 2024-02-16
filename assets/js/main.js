@@ -50,14 +50,23 @@ console.log(name);
 //     - Increase by 5 TEMPERATURE 
 //     - Print in console
 
-let temperature= 22.5;
+let temperature= 22.5; // number
 console.log(temperature);
 
-temperature += 5;
+// temperature += 5;  // number
+// console.log(temperature);
+
+// temperature += 5;  // number
+// console.log(temperature);
+
+// Increas only with 5 decimal
+
+let decimal = 0.5;  // number
+
+temperature += decimal;
 console.log(temperature);
 
-temperature += 5;
-console.log(temperature);
+
 
 // EXERCISE 5: Number
 //What's the difference about number 3.14 and number 100? 
