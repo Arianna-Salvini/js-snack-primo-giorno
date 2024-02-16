@@ -9,7 +9,7 @@ console.log(number);
 //     - Declare constant identify as PI with value 3.14
 //     - Print in console
 
-const PI = 3.14 //number
+const PI = 3.14; //number
 console.log(PI);
 
 // EXERCICE 2 / B
@@ -26,8 +26,8 @@ console.log(PI);
 //      - Declare variable identify CIRCLE as result of RADIUS * 2 * PI
 //      - Print variable CIRCLE in console
 
-const radius = 8 //Number
-const circle = radius * 2 * PI 
+const radius = 8; //Number
+const circle = radius * 2 * PI ;
 console.log(circle);
 
 // EXERCICE 3
@@ -36,10 +36,10 @@ console.log(circle);
 //     - Declare variable NAME as MARCO
 //     - Pint in console
 
-let name = "Carlo" // String
+let name = "Carlo";// String
 console.log(name); 
 
-name = "Marco" //String
+name = "Marco"; //String
 console.log(name);
 
 // ESERCIZIO 4
@@ -50,8 +50,12 @@ console.log(name);
 //     - Increase by 5 TEMPERATURE 
 //     - Print in console
 
-let temperature= 22.5
+let temperature= 22.5;
 console.log(temperature);
 
-temperature += 5
+temperature += 5;
 console.log(temperature);
+
+temperature += 5;
+console.log(temperature);
+
