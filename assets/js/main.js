@@ -2,7 +2,8 @@
 //     - Declare variable identify NUMBER with value 100
 //     - Print in console
 
-
+const number = 100 //Number
+console.log(number);
 
 // EXERCICE 2
 //     - Declare constant identify as PI with value 4.14
