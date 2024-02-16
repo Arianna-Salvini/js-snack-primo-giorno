@@ -26,12 +26,18 @@ console.log(PI);
 //      - Declare variable identify CIRCLE as result of RADIUS * 2 * PI
 //      - Print variable CIRCLE in console
 
-    const radius = 8 //number
-    const circle = radius * 2 * PI
-    console.log(circle);
+const radius = 8 //number
+const circle = radius * 2 * PI
+console.log(circle);
 
 // EXERCICE 3
 //     - Declare variable identify NAME with value as CARLO
 //     - Print in console
 //     - Declare variable NAME as MARCO
 //     - Pint in console
+
+let name = "Carlo" // String
+console.log(name); 
+
+name = "Marco" //String
+console.log(name);
