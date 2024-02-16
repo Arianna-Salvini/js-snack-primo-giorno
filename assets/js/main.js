@@ -41,3 +41,17 @@ console.log(name);
 
 name = "Marco" //String
 console.log(name);
+
+// ESERCIZIO 4
+// Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successivamente, aumenta il suo valore di 5 e stampa il nuovo valore in console.
+
+//     - Declare variable identify TEMPERATURE with value 22.5 
+//     - Print in console
+//     - Increase by 5 TEMPERATURE 
+//     - Print in console
+
+let temperature= 22.5
+console.log(temperature);
+
+temperature += 5
+console.log(temperature);

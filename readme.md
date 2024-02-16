@@ -43,3 +43,13 @@ let city = "Roma"; //string
 const phi = 1.618033 //number
 
  -->
+ESERCIZIO 4
+Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successivamente, aumenta il suo valore di 5 e stampa il nuovo valore in console.
+
+    - Declare variable identify TEMPERATURE with value 22.5 
+    - Print in console
+    - Increase by 5 TEMPERATURE 
+    - Print in console
+
+
+ 
