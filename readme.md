@@ -3,7 +3,7 @@
 ESERCIZIO 1
     Dichiara una variabile chiamata number e assegnale il valore 100. Stampa il valore della variabile in console.
 
-    - Declare variable 
+    - Declare variable identify NUMBER with value 100
     - Print in console
 
 ESERCIZIO 2
