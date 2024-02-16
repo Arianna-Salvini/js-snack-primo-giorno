@@ -81,4 +81,11 @@ console.log(temperature);
 // and its decimal expansion has an infinite number of digits after the decimal point, with no infinitely repeating pattern.
 // In JS 100 is a integer number while 3.14 is a floating-point number and the maximum number of decimals is 17.
 
+// EXERCISE 6: Console
 
+console.info('Il mio messaggio')
+
+// The difference between console.log() and console.info() is the method.
+// in JS there console privides differents methods to use, 
+//for exemple warn, error, assert, count,time, timelog, timeend, group, clear and so on.
+//Each console method has its own use cases.

@@ -56,4 +56,7 @@ Dichiara una variabile chiamata temperature e assegnale il valore 22.5. Successi
 Rispondete in un commento a più righe: Che differenza c'è tra il numero 3.14 e 100 sono diversi? Perchè? Che tipo di dato è uno e che tipo di dato è l'altro?
 (aiutatevi con una ricerca su google per allenare il vostro cerebro)
 
-
+ESERCIZIO 6: console
+Per scrivere dentro la nostra console utilizziamo la sua funzione .log() ma se scrivessimo console.info('Il mio messaggio') che differenza c'è? Perche?
+Esistono altri metodi da usare con console. ?
+(aiutatevi con una ricerca su internet per tennere allenate il vostro brain)
